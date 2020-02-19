@@ -1,6 +1,7 @@
 ### Simple Scotch
 
 Just a simple scotchbox/pro setup; After vagrant up, go to 192.168.68.10.
+
 ---
 
 #### Database Info
