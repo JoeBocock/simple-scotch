@@ -4,7 +4,7 @@ Just a simple scotchbox/pro setup; After vagrant up, go to 192.168.68.10.
 
 ---
 
-#### Database Info
+#### Box Info
 
 There's a default database called home that will exist after vagrant up.
 
@@ -12,7 +12,7 @@ There's a default database called home that will exist after vagrant up.
 - User : root
 - Password : root
 
-- SSH Server : 192.168.68.10:22
+- SSH : 192.168.68.10:22
 - User : vagrant
 - Password : vagrant
 ---
